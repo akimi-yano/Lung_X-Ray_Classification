@@ -22,10 +22,10 @@ Dataset contains 3 folders, namely:
 ![](./visuals/COVID-1.png?width=100)
 
 - `Pneumonia`: This folder contains lung x-ray images with pneumonia disease
-![](./visuals/person2_bacteria_3.jpeg?|width=100)
+![](./visuals/person2_bacteria_3.jpeg?width=100)
 
 - `Normal`: This folder contains normal functioning and healthy lung x-ray images
-![](./visuals/Normal-2.png?|width=100)
+![](./visuals/Normal-2.png?width=100)
 
 ---
 
