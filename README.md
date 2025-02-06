@@ -19,13 +19,13 @@ We have combined and prepared the dataset already. You can download it from the 
 
 Dataset contains 3 folders, namely:
 - `Covid`: This folder contains lung x-ray images with covid-19 disease
-![](./visuals/COVID-1.png?width=100)
+<img src="./visuals/COVID-1.png" width="100">
 
 - `Pneumonia`: This folder contains lung x-ray images with pneumonia disease
-![](./visuals/person2_bacteria_3.jpeg?width=100)
+<img src="./visuals/person2_bacteria_3.jpeg" width="100">
 
 - `Normal`: This folder contains normal functioning and healthy lung x-ray images
-![](./visuals/Normal-2.png?width=100)
+<img src="./visuals/Normal-2.png" width="100">
 
 ---
 
