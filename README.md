@@ -31,7 +31,7 @@ Dataset contains 3 folders, namely:
 
 ### Machine Learning Model Architecture:
 
-This model is composed of a transfer learning:
+This model utilizes transfer learning composed of the following elements:
 - `MobileNetV3Small` with `imagenet` weights
 - `Dense` layer with `relu` activation function
 - `BatchNormalization`
