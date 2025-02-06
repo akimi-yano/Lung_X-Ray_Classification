@@ -82,3 +82,12 @@ For the training dataset, I applied the following data augmentation to avoid ove
 ### Normalized Confusion Matrix:
 
 ![](./visuals/lung_classification_normalized_confusion_matrix.png?raw=true)
+
+---
+
+### Result:
+
+This implementation was able to achieve the following accuracy scores:
+
+- Training Accuracy: `0.9561` 
+- Validation Accuracy: `0.9241`
