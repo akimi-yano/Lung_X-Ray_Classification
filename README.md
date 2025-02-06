@@ -18,11 +18,14 @@ We are combining the datasets from multiple locations. You can find the individu
 We have combined and prepared the dataset already. You can download it from the following dropbox link: `https://www.dropbox.com/s/73s9n7nugqrv1h7/Dataset.zip?dl=1`
 
 Dataset contains 3 folders, namely:
-- Covid: This folder contains lung x-ray images with covid-19 disease
-- Pneumonia: This folder contains lung x-ray images with pneumonia disease
-- Normal: This folder contains normal functioning and healthy lung x-ray images
+- `Covid`: This folder contains lung x-ray images with covid-19 disease
+![](./visuals/COVID-1.png?raw=true)
 
-TODO: ADD IMAGES
+- `Pneumonia`: This folder contains lung x-ray images with pneumonia disease
+![](./person2_bacteria_3.jpeg?raw=true)
+
+- `Normal`: This folder contains normal functioning and healthy lung x-ray images
+![](./visuals/Normal-2.png?raw=true)
 
 ---
 
@@ -60,22 +63,22 @@ For the training dataset, I applied the following data augmentation to avoid ove
 
 ### Loss:
 
-TODO: add images
+![](./visuals/lung_classification_loss.png?raw=true)
 
 ---
 
 ### Accuracy:
 
-TODO: add images
+![](./visuals/lung_classification_accuracy.png?raw=true)
 
 ---
 
 ### Confusion Matrix without Normalization:
 
-TODO: add images
+![](./visuals/lung_classification_confusion_matrix_without_normalization.png?raw=true)
 
 ---
 
 ### Normalized Confusion Matrix:
 
-TODO: add images
+![](./visuals/lung_classification_normalized_confusion_matrix.png?raw=true)
